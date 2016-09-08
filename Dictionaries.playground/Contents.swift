@@ -23,7 +23,7 @@ if let definition = nonexistentDefinition {
     print("'strategery' isn't a word")
 }
 
-favoriteWords["strategery"] = "strategy"
+favoriteWords["strategery"] = "strategory"
 definition = favoriteWords["strategery"]
 
 favoriteWords["strategery"] = nil
